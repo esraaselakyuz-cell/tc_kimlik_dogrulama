@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kimlik kartı temalı palet: bordo zemin, bronz/altın vurgu,
+         kağıt beji arka plan, mürekkep lacivert metin. -->
+    <color name="paper">#F6F3EC</color>
+    <color name="ink">#1D2430</color>
+    <color name="ink_muted">#5B6472</color>
+    <color name="maroon">#6B1E2A</color>
+    <color name="maroon_dark">#4E141D</color>
+    <color name="gold">#C9A66B</color>
+    <color name="gold_soft">#E7D9BC</color>
+    <color name="success">#2F6B4F</color>
+    <color name="error">#A13D2B</color>
+    <color name="cell_bg">#FFFFFF</color>
+    <color name="cell_border">#D8D2C4</color>
+</resources>
