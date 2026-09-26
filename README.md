@@ -1,2 +1,0 @@
-# tc_kimlik_dogrulama
-tc_kimlik_dogrulama uygulaması
